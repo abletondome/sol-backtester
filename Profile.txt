@@ -1,0 +1,1 @@
+web: streamlit run sol_usdt_backtester.py --server.port $PORT --server.address 0.0.0.0
